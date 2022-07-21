@@ -1,1 +1,2 @@
-New
+Hello! I'm Thamindu Nethmina
+Welcome to GIT HUB...
